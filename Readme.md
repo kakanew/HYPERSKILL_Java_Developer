@@ -1,4 +1,4 @@
-# JAVA Developer
+# [JAVA Developer](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer)
 
 Choose this track to learn more about one of the most popular programming languages: *Java*. This language has a rich history, and it is used by a huge community of developers around the world. Master this programming language to create your own desktop and web-applications.
 
@@ -16,7 +16,7 @@ Learn *Java* while building real functional applications. You'll get to choose a
 
 - [ ] Functional programming
 
-## PROJECT: Encryption-Decryption
+## [PROJECT: Encryption-Decryption](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROJECT_Encryption_Decryption)
 
 ##### About
 

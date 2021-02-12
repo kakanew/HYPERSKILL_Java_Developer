@@ -14,21 +14,21 @@ Gradually get familiar with *Java*, paying special attention to working with fil
 
 Learn to input the data and encrypt it, replacing the letters.
 
-- [x] Introduction to Java
+- [x] [Introduction to Java](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Introduction_to_Java)
 - [x] Basic literals
-- [x] Overview of the basic program
-- [x] Printing data
-- [x] Types and variables
-- [x] Comments
+- [x] [Overview of the basic program](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Overview_of_the_basic_program)
+- [x] [Printing data](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Printing_data)
+- [x] [Types and variables](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Types_and_variables)
+- [x] [Comments](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Comments)
 - [x] Naming variables
-- [x] Scanning the input
+- [x] [Scanning the input](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Scanning_the_input)
 - [x] Arithmetic operations
-- [x] Integer types and operations
+- [x] [Integer types and operations](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Integer_types_and_operations)
 - [x] Boolean and logical operations
-- [x] Relational operators
+- [x] [Relational operators](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Relational_operators)
 - [x] Increment and decrement
 - [x] Characters
-- [x] Conditional statement
+- [x] [Conditional statement](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Conditional_statement)
 - [ ] Ternary operator
 - [ ] Introduction to operating systems
 - [ ] Command line overview
@@ -41,17 +41,17 @@ Learn to input the data and encrypt it, replacing the letters.
 
 Learn to encrypt messages with a numeric key, using the Caesar cypher.
 
-- [x] The for-loop
-- [x] The while and do-while loops
-- [x] Branching statements
+- [x] [The for-loop](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/The_for_loop)
+- [x] [The while and do-while loops](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/The_while_and_do_while_loops)
+- [x] [Branching statements](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Branching_statements)
 - [ ] Units of information
 - [x] Sizes and ranges
 - [x] Type casting
 - [ ] Calling a method
 - [x] Primitive and reference types
-- [x] Array
-- [x] String
-- [x] Processing strings
+- [x] [Array](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Array)
+- [x] [String](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/String)
+- [x] [Processing strings](https://github.com/kakanew/HYPERSKILL_Java_Developer/tree/master/PROBLEMS_Java_Developer/src/Processing_strings)
 - [x] IDE
 - [x] IntelliJ IDEA
 - [x] IDEA Basics
