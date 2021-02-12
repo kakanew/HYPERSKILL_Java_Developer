@@ -117,3 +117,5 @@ Add the possibility to choose a specific encryption algorithm: Ceasar or Unicode
 - [ ] Encapsulating object creation
 - [ ] Factory method
 - [ ] Template method
+
+### [HYPERSKILL_Java_Developer](https://github.com/kakanew/HYPERSKILL_Java_Developer)
